@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ErfanRht.ErfanRht&style=flat-square&color=0088cc)
 
-I am 16 years old 🎓 from Iran, Tehran 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Development 🕸️  🤓.
+I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Mobile Development 🕸️  🤓.
 
 
 [![](https://gitwar.herokuapp.com/badge?username=ErfanRht&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
