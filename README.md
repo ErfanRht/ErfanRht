@@ -20,6 +20,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 
 - 🛠 &nbsp; I’m currently working with Flutter, Dart, Python.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ErfanRht).
 - 📫 &nbsp; How to reach me: ErfanRht1384.com@gmail.com.com
 
 ### My Absolute Favorites:
@@ -70,7 +71,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> laptop asus</li>
+	    <li><b>Laptop: </b> Asus L46C (i7)
   	    <li><b>Browser: </b> Chorme Web Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Pub.dev, Medium, Instagram and Twitter.</li>
