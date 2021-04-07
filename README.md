@@ -11,7 +11,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Flutter, <br />  Dart, Python.
+- 🛠 &nbsp; I’m currently working with Flutter, Dart, Python.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 📫 &nbsp; How to reach me: ErfanRht1384.com@gmail.com.com
 
