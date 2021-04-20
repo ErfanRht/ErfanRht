@@ -74,7 +74,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/ErfanRht/WhatsApp-spammer"><b>🚀 Gitwar</b></a></td>
+	      <td><a href="https://github.com/ErfanRht/WhatsApp-spammer"><b>💬 WhatsApp-spammer</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/WhatsApp-spammer?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/WhatsApp-spammer?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/WhatsApp-spammer?style=flat-square"/></td>
