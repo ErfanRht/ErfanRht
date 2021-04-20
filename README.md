@@ -62,7 +62,26 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 
   <br />
   <table>
-
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/ErfanRht/WhatsApp-spammer"><b>🚀 Gitwar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/WhatsApp-spammer?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/WhatsApp-spammer?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/WhatsApp-spammer?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/WhatsApp-spammer?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/WhatsApp-spammer?style=flat-square"/></td>
+      </tr>
+    </tbody>
   </table>
   <br />
 </details>
@@ -76,7 +95,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
   	    <li><b>Browser: </b> Chorme Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Pub.dev, Medium, Instagram and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram and Twitter.</li>
 	    <br />
 	
 </details>
