@@ -57,7 +57,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 </details>
 
 <details>
-  <summary><b 🚀 Open Source Projects</b></summary>
+  <summary><b☄️ Github Streaks 🚀 Open Source Projects</b></summary>
 
   <br />
   <table>
