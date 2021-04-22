@@ -94,7 +94,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
   	    <li><b>Browser: </b> Chorme Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram and Twitter.</li>
+	    <li><b>To Stay Updated:</b> [Dev.to](https://dev.to/), [Medium](https://medium.com/), [Virgool](https://virgool.io/), [Instagram](https://www.instagram.com/), [Twitter](https://twitter.com/).</li>
 	    <br />
 	
 </details>
