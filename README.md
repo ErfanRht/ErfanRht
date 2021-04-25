@@ -74,7 +74,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/ErfanRht/Sudo-Wallpapers"><b>💬 My-Personal-Website</b></a></td>
+	<td><a href="https://github.com/ErfanRht/Sudo-Wallpapers"><b>📷 Sudo-Wallpapers</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Sudo-Wallpapers?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Sudo-Wallpapers?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Sudo-Wallpapers?style=flat-square"/></td>
