@@ -48,42 +48,43 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 <details>	
   <summary><b>💻 Skills </b></summary>
 <ui>
-<b>⚙️ FrontEnd: </b>
-  	<ul>
-  	    <li><b> Mobile dev: </b></li>
-            <ul>
-		    <li> Dart </li>
-		    <li> Flutter Framework </li>
-		    <li> GetX state managmanet </li>
-            </ul>
-	    <li><b> Web dev: </b></li>
-            <ul>
-		    <li> Dart </li>
-		    <li> Python </li>
-		    <li> Flutter Framework </li>
-		    <li> Django Framework </li>
-		    <li> GetX state managmanet </li>
-		    <li> HTML </li>
-		    <li> CSS </li>
-            </ul>
-	</ui>
-<b>⚙️ BackEnd: </b>
-	<ul>
-	<li> Python </li>
-	<li> Django Framework </li>
-	<li> Flask Framework </li>
-	<li> SQLite Database </li>
-	<li> MySQL Database </li>
-	</ul>
-<b>⚙️ Other: </b>
-	<ul>
-	<li> Git </li>
-	<li> Docker </li>
-	<li> Linux </li>
-	<li> RegEx </li>
-	<li> JSON </li>
-	<li> Web Scraping </li>
-	</ul>
+	<b>⚙️ FrontEnd: </b>
+		<ul>
+		    <li><b> Mobile dev: </b></li>
+		    <ul>
+			    <li> Dart </li>
+			    <li> Flutter Framework </li>
+			    <li> GetX state managmanet </li>
+		    </ul>
+		    <li><b> Web dev: </b></li>
+		    <ul>
+			    <li> Dart </li>
+			    <li> Python </li>
+			    <li> Flutter Framework </li>
+			    <li> Django Framework </li>
+			    <li> GetX state managmanet </li>
+			    <li> HTML </li>
+			    <li> CSS </li>
+		    </ul>
+		</ui>
+	
+	<b>⚙️ BackEnd: </b>
+		<ul>
+		<li> Python </li>
+		<li> Django Framework </li>
+		<li> Flask Framework </li>
+		<li> SQLite Database </li>
+		<li> MySQL Database </li>
+		</ul>
+	<b>⚙️ Other: </b>
+		<ul>
+		<li> Git </li>
+		<li> Docker </li>
+		<li> Linux </li>
+		<li> RegEx </li>
+		<li> JSON </li>
+		<li> Web Scraping </li>
+		</ul>
 </ui>
 </details>
 
