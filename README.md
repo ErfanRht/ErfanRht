@@ -46,7 +46,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Skills </b></summary>
+  <summary><b>💻 Skills </b></summary>
 <b>⚙️ FrontEnd: </b>
   	<ul>
   	    <li><b> Mobile dev: </b></li>
@@ -65,6 +65,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 		    <li> HTML </li>
 		    <li> CSS </li>
             </ul>
+	</ui>
 <b>⚙️ BackEnd: </b>
 	<ul>
 	<li> Python </li>
