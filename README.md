@@ -67,7 +67,6 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 			    <li> CSS </li>
 		    </ul>
 		</ui>
-	
 	<b>⚙️ BackEnd: </b>
 		<ul>
 		<li> Python </li>
