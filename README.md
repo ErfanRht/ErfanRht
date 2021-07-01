@@ -46,6 +46,45 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 ### Projects and Dev Stuffs:
 
 <details>	
+  <summary><b>⚡ Skills </b></summary>
+<b>⚙️ FrontEnd: </b>
+  	<ul>
+  	    <li><b> Mobile dev: </b></li>
+            <ul>
+		    <li> Dart </li>
+		    <li> Flutter Framework </li>
+		    <li> GetX state managmanet </li>
+            </ul>
+	    <li><b> Web dev: </b></li>
+            <ul>
+		    <li> Dart </li>
+		    <li> Python </li>
+		    <li> Flutter Framework </li>
+		    <li> Django Framework </li>
+		    <li> GetX state managmanet </li>
+		    <li> HTML </li>
+		    <li> CSS </li>
+            </ul>
+<b>⚙️ BackEnd: </b>
+	<ul>
+	<li> Python </li>
+	<li> Django Framework </li>
+	<li> Flask Framework </li>
+	<li> SQLite Database </li>
+	<li> MySQL Database </li>
+	</ul>
+<b>⚙️ Other: </b>
+	<ul>
+	<li> Git </li>
+	<li> Docker </li>
+	<li> Linux </li>
+	<li> RegEx </li>
+	<li> JSON </li>
+	<li> Web Scraping </li>
+	</ul>
+</details>
+
+<details>	
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -149,5 +188,3 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-
