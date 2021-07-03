@@ -47,9 +47,11 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 
 ### Projects and Dev Stuffs:
 
-<details>	
+<details>
   <summary><b>💻 Skills </b></summary> 
-	<b> FrontEnd: </b>
+  <br />	
+  <ul><ul>
+	<li><b> FrontEnd: </b></li>
 		<ul>
 		    <li><b> Mobile dev: </b></li>
 		    <ul>
@@ -69,23 +71,26 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 		        </ul>
 		    </ul>
 		</ui>
-	<b> BackEnd: </b>
-		<ul>
+	<li><b> BackEnd: </b></li>
+		<ul><ul>
 		<li> Python </li>
 		<li> Django Framework </li>
 		<li> Flask Framework </li>
 		<li> SQLite Database </li>
 		<li> MySQL Database </li>
-		</ul>
-	<b> Other: </b>
-		<ul>
+		</ul></ul>
+	<li><b> Other: </b></li>
+		<ul><ul>
 		<li> Git </li>
 		<li> Docker </li>
 		<li> Linux </li>
+        <li> Web Scraping </li>
 		<li> RegEx </li>
 		<li> JSON </li>
-		<li> Web Scraping </li>
-		</ul>
+        <li> YAMEL </li>
+        <li> XML </li>
+		</ul></ul>
+    <br />
 </details>
 
 <details>	
