@@ -1,4 +1,5 @@
 
+
 ## Hey 👋, I'm [Erfan Rahmati](https://github.com/ErfanRht/)
 
 
@@ -49,7 +50,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 <details>	
   <summary><b>💻 Skills </b></summary>
 <ui>
-	<b>⚙️ FrontEnd: </b>
+	<b> FrontEnd: </b>
 		<ul>
 		    <li><b> Mobile dev: </b></li>
 		    <ul>
@@ -68,7 +69,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 			    <li> CSS </li>
 		    </ul>
 		</ui>
-	<b>⚙️ BackEnd: </b>
+	<b> BackEnd: </b>
 		<ul>
 		<li> Python </li>
 		<li> Django Framework </li>
@@ -76,7 +77,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 		<li> SQLite Database </li>
 		<li> MySQL Database </li>
 		</ul>
-	<b>⚙️ Other: </b>
+	<b> Other: </b>
 		<ul>
 		<li> Git </li>
 		<li> Docker </li>
