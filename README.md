@@ -68,6 +68,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 			    <li> GetX state managmanet </li>
 			    <li> HTML </li>
 			    <li> CSS </li>
+                            <li> SCSS </li>
 			    <li> JavaScript </li>
 		        </ul>
 		    </ul>
