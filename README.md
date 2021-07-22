@@ -126,12 +126,12 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
     </thead>
     <tbody>
 	<tr>
-	<td><a href="https://github.com/ErfanRht/GhodsProject"><b>💻 GhodsProjects</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/GhodsProject?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/GhodsProject?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/GhodsProject?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/GhodsProject?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/GhodsProject?style=flat-square"/></td>
+	<td><a href="https://github.com/ErfanRht/Ghods-Project"><b>💻 GhodsProjects</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Ghods-Project?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Ghods-Project?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Ghods-Project?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/Ghods-Project?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/Ghods-Project?style=flat-square"/></td>
       </tr>
        <tr>
 	<td><a href="https://github.com/ErfanRht/BMI-calculator"><b>📱 BMI-calculator</b></a></td>
