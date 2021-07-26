@@ -192,7 +192,8 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 	    <li><b>Laptop: </b> Lenovo Z51 (i7)
   	    <li><b>Browser: </b> Chorme Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>IDE:</b> PyCharm (Django and Flask) & Android Studio (for Flutter).</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram and Twitter.</li>
 	    <br />
 	
