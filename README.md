@@ -112,7 +112,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 <details>	
   <summary><b>🕒 Wakatime Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&layout=compact" />
+<img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&layout=compact" />
 </details>
 
 <details>
