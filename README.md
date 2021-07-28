@@ -1,5 +1,6 @@
 
 
+
 ## Hey 👋, I'm [Erfan Rahmati](https://github.com/ErfanRht/)
 
 
@@ -49,50 +50,10 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 
 <details>
   <summary><b>💻 Skills </b></summary> 
-  <br />	
-  <ul><ul>
-	<li><b> FrontEnd: </b></li>
-		<ul>
-		    <li><b> Mobile dev: </b></li>
-		    <ul>
-			    <li> Dart </li>
-			    <li> Flutter Framework </li>
-			    <li> GetX state managmanet </li>
-		    </ul>
-		    <li><b> Web dev: </b></li>
-		    <ul>
-			    <li> Dart </li>
-			    <li> Python </li>
-			    <li> Flutter Framework </li>
-			    <li> Django Framework </li>
-			    <li> GetX state managmanet </li>
-			    <li> HTML </li>
-			    <li> CSS </li>
-                            <li> SCSS </li>
-			    <li> JavaScript </li>
-		        </ul>
-		    </ul>
-		</ui>
-	<li><b> BackEnd: </b></li>
-		<ul><ul>
-		<li> Python </li>
-		<li> Django Framework </li>
-		<li> Flask Framework </li>
-		<li> SQLite Database </li>
-		<li> MySQL Database </li>
-		</ul></ul>
-	<li><b> Other: </b></li>
-		<ul><ul>
-		<li> Git </li>
-		<li> Docker </li>
-		<li> Linux </li>
-        <li> Web Scraping </li>
-		<li> RegEx </li>
-		<li> JSON </li>
-        <li> YAMEL </li>
-        <li> XML </li>
-		</ul></ul>
-    <br />
+  
+[![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+[![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
+
 </details>
 
 <details>	
