@@ -50,9 +50,12 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
   <summary><b>💻 Skills </b></summary> 
   <br>	
 	
-[![Python Badge](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://www.python.org/)
+[![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-45D1FD?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.dev/)
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://Flutter.dev/)
+[![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://Flutter.dev/)
+[![RegEx Badge](https://img.shields.io/badge/-RegEx-FD5900?style=flat-square&logo=RegEx&logoColor=white)](https://en.wikipedia.org/wiki/Regular_expression)
     </br>
 </details>
 
