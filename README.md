@@ -53,8 +53,22 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 [![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-45D1FD?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.dev/)
-[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://Flutter.dev/)
-[![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://Flutter.dev/)
+[![GetX Badge](https://img.shields.io/badge/-GetX-6C00BA?style=flat-square&logo=GetX&logoColor=white)](https://pub.dev/packages/get)
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+[![Sqlite Badge](https://img.shields.io/badge/-SQLite-66B9E7?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+
+[![WebScraping Badge](https://img.shields.io/badge/-WebScraping-00AE00?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Linux Badge](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Git Badge](https://img.shields.io/badge/-Git-F05133?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E54C21?style=flat-square&logo=HTML5&logoColor=white)](https://html.com/)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS Badge](https://img.shields.io/badge/-SCSS-2496ED?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
+
+[![JSON Badge](https://img.shields.io/badge/-JSON-723FFF?style=flat-square&logo=JSON&logoColor=white)](https://www.json.org/)
+[![YAML Badge](https://img.shields.io/badge/-YAML-0067A2?style=flat-square&logo=YAML&logoColor=white)](https://yaml.org/)
 [![RegEx Badge](https://img.shields.io/badge/-RegEx-FD5900?style=flat-square&logo=RegEx&logoColor=white)](https://en.wikipedia.org/wiki/Regular_expression)
     </br>
 </details>
