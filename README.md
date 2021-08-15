@@ -183,7 +183,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>IDE:</b> PyCharm (for Django and Flask) & Android Studio (for Flutter).</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram and Twitter.</li>
-	    <li>[my desktop screenshot...](./screenshots)</li>
+	    <li>[my desktop screenshot...](./images/desktopm/my-desktop.png)</li>
 	    <br />
 	
 </details>
