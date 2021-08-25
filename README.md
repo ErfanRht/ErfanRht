@@ -25,7 +25,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 
 - 🛠 &nbsp; I’m currently working with [Python](https://www.python.org), [Dart](https://Dart.dev), [Flutter](https://Flutter.dev), [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com/) .
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/ErfanRht).
-- 👾 &nbsp; As soon as I learn how to print "Hello World", I felt power in my hand
+- 👾 &nbsp; As soon as I learned how to print "Hello World", I felt power in my hand
 - 📫 &nbsp; How to reach me: ErfanRht1384.com@gmail.com
 
 ### My Absolute Favorites:
