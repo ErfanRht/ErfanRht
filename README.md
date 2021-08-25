@@ -184,7 +184,7 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
 	    <li><b>Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Virgool, Instagram and Twitter.</li>
 	    <br />
-	    See my desktop screenshot <a href="./images/desktop/my-desktop.png">Here</a>.
+	    👨🏻‍💻 See my desktop screenshot <a href="./images/desktop/my-desktop.png">Here</a>!
 	
 </details>
 
