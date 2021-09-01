@@ -160,14 +160,6 @@ I'm 16 years old 🎓 I'm from Iran, Tehran 🏛. I'm a passionate learner who's
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/Spammer?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/Spammer?style=flat-square"/></td>
       </tr>
-      <tr>
-	<td><a href="https://github.com/ErfanRht/WhatsApp-spammer"><b>💬 WhatsApp-spammer</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/WhatsApp-spammer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/WhatsApp-spammer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/WhatsApp-spammer?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/WhatsApp-spammer?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/WhatsApp-spammer?style=flat-square"/></td>
-      </tr>
     </tbody>
   </table>
   <br />
