@@ -87,7 +87,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I'm live in Iran, Tehra
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&hide_border=true&count_private=true" />
 </details>
 	
 <details>	
