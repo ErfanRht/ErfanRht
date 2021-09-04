@@ -121,7 +121,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I'm live in Iran, Tehra
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/ToDo-list?style=flat-square"/></td>
       </tr>
 	<tr>
-	<td><a href="https://github.com/ErfanRht/Ghods-highschool"><b>💻 GhodsProjects</b></a></td>
+	<td><a href="https://github.com/ErfanRht/Ghods-highschool"><b>💻 Ghods-highschool</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Ghods-highschool?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Ghods-highschool?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Ghods-highschool?style=flat-square"/></td>
