@@ -90,6 +90,12 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I'm live in Iran, Tehra
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&hide_border=true&count_private=true" />
 </details>
 
+<details>	
+  <summary><b>🕒 Wakatime Stats</b></summary>
+
+<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&layout=compact&langs_count=8" />
+</details>
+
 <details>
   <summary><b>🚀 Open Source Projects</b></summary>
 
