@@ -172,6 +172,35 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
   </table>
   <br />
 </details>
+
+<details>
+  <summary><b>🚀 Open Source Packages or Libraries</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Packages</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	<td><a href="https://github.com/ErfanRht/fake-persian-name"><b>💻 fake-persian-name</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/fake-persian-name?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/fake-persian-name?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/fake-persian-name?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/fake-persian-name?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/fake-persian-name?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
  
 <details>	
   <br />
