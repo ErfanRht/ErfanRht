@@ -174,7 +174,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 </details>
 
 <details>
-  <summary><b>🚀 Open Source Packages or Libraries</b></summary>
+  <summary><b>💻 Open Source Packages</b></summary>
 
   <br />
   <table>
