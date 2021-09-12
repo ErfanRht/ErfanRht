@@ -195,7 +195,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
         <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/fake-persian-name?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/fake-persian-name?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/fake-persian-name?style=flat-square"/></td>
-        [![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python library&logoColor=white)](https://www.python.org/)
+        <td><img alt="Language" src="https://img.shields.io/badge/-Python-3476AA?style=flat-square&logo=Python library&logoColor=white"/></td>
       </tr>
     </tbody>
   </table>
