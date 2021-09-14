@@ -195,7 +195,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
         <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/flutter_advanced_button?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/flutter_advanced_button?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/flutter_advanced_button?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/-Flutter%20package-45D1FD?style=flat-square&logo=Flutter&logoColor=white"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/-Flutter%20package-2CB7F6?style=flat-square&logo=Flutter&logoColor=white"/></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/ErfanRht/fake-persian-name"><b>💻 fake-persian-name</b></a></td>
