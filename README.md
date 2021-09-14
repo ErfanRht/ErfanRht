@@ -190,7 +190,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/ErfanRht/flutter_advanced_button"><b>💻 flutter_advanced_button</b></a></td>
+	<td><a href="https://github.com/ErfanRht/flutter_advanced_button"><b>📱 flutter_advanced_button</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/flutter_advanced_button?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/flutter_advanced_button?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/flutter_advanced_button?style=flat-square"/></td>
