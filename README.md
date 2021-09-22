@@ -60,10 +60,10 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 [![GetX Badge](https://img.shields.io/badge/-GetX-6C00BA?style=flat-square&logo=GetX&logoColor=white)](https://pub.dev/packages/get)
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+[![WebScraping Badge](https://img.shields.io/badge/-WebScraping-00AE00?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+
 [![Sqlite Badge](https://img.shields.io/badge/-SQLite-66B9E7?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-
-[![WebScraping Badge](https://img.shields.io/badge/-WebScraping-00AE00?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Linux Badge](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Git Badge](https://img.shields.io/badge/-Git-F05133?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
