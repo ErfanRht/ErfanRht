@@ -171,12 +171,12 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/My-Personal-Website?style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/ErfanRht/Spammer"><b>💬 Spammer</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Spammer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Spammer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Spammer?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/Spammer?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/Spammer?style=flat-square"/></td>
+	<td><a href="https://github.com/ErfanRht/FAD-Spammer"><b>💬 FAD-Spammer</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/FAD-Spammer?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/FAD-Spammer?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/FAD-Spammer?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/FAD-Spammer?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/FAD-Spammer?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
