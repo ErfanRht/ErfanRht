@@ -29,6 +29,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 - 👾 &nbsp; As soon as I learned how to print "Hello World", I felt power in my hand.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ErfanRht/ErfanRht/issues)! I am happy to help.
 - 📫 &nbsp; How to reach me: ErfanRht1384.com@gmail.com
+- 📝 &nbsp; Checkout [resume](https://github.com/ErfanRht/ErfanRht/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
 
