@@ -1,7 +1,10 @@
 
 
-## Hey 👋, I'm [Erfan Rahmati](https://github.com/ErfanRht/)
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Guys!+👋;This+is+Erfan+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&theme=gotham&center=true&size=30">
+  </a>
+</h1>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ErfanRahmatei/)
 [![WhatsApp Badge](https://img.shields.io/badge/-Whatsapp-4FCE5D?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=0989397288246)
@@ -20,7 +23,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 
 [![](https://gitwar.herokuapp.com/badge?username=ErfanRht&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ErfanRht/ErfanRht/main/gifs/coder.gif" />
+<img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 ### Talking about Personal Stuffs:
 
@@ -82,19 +85,19 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanRht&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanRht&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ErfanRht&theme=gotham&hide_border=true&layout=compact&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=ErfanRht&theme=react-dark&hide_border=true&layout=compact&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 
 </details>
 
 <details>	
   <summary><b>🕒 Wakatime Stats</b></summary>
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&&theme=gotham&hide_border=truelayout=compact&langs_count=8" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&theme=gotham&hide_border=truelayout=compact&langs_count=8" />
 </details>
 
 <details>
