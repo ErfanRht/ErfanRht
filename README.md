@@ -1,8 +1,6 @@
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Guys!+👋;This+is+Erfan+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&theme=gotham&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Guys!+👋;This+is+Erfan+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
   </a>
 </h1>
 
@@ -39,6 +37,18 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 
+###  Connect with me 
+
+<p align="left">
+<a href="https://twitter.com/rhterf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhterf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erfanrahmati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfanrahmati" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/erfanrahmati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erfanrahmati" height="30" width="40" /></a>
+<a href="https://instagram.com/erfanrahmatei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erfanrahmatei" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/erfanrht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erfanrht" height="30" width="40" /></a>
+</p>
+<br>
+<br>
+	
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart"></code>
@@ -86,6 +96,7 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
+	
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanRht&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" />
