@@ -8,24 +8,17 @@
 
 I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨. I'm currently into Mobile applications & server APIs Development 🕸️  🤓.
 
-
-[![](https://gitwar.herokuapp.com/badge?username=ErfanRht&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with [Python](https://www.python.org), [Dart](https://Dart.dev), [Flutter](https://Flutter.dev), [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com/) .
-- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/ErfanRht).
-- 👾 &nbsp; As soon as I learned how to print "Hello World", I felt power in my hand.
-- 💬 &nbsp; Ask me about anything [here](https://github.com/ErfanRht/ErfanRht/issues)! I am happy to help.
-- 📫 &nbsp; How to reach me: ErfanRht1384.com@gmail.com
-- 📝 &nbsp; Checkout [resume](https://github.com/ErfanRht/ErfanRht/blob/main/resume.pdf).
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- I’m currently working with [Python](https://www.python.org), [Dart](https://Dart.dev), [Flutter](https://Flutter.dev), [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com/).
+- I love exploring new tech stack and building cool stuffs.
+- Most of my projects are available on [Github](https://github.com/ErfanRht).
+- As soon as I learned how to print "Hello World", I felt power in my hand.
+- Ask me about anything [here](https://github.com/ErfanRht/ErfanRht/issues)! I am happy to help.
+- How to reach me: ErfanRht2005@gmail.com
+- Checkout [resume](https://github.com/ErfanRht/ErfanRht/blob/main/resume.pdf).
 
 ###  Connect with me 
 
@@ -54,9 +47,9 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 ### My Stats:
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" width="45%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
 	
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanRht&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="45%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanRht&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&theme=github_dark&hide_border=truelayout=compact&langs_count=8" width="45%" />
 
