@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Guys!+👋;This+is+Erfan+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Guys!;This+is+Erfan.;Nice+to+meet+you!;Have+a+great+day&center=true&size=30">
   </a>
 </h1>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ErfanRht.ErfanRht&style=flat-square&color=0088cc)
+### Glad to see you here!
 
-I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨. I'm currently into Mobile applications & server APIs Development 🕸️  🤓.
+I'm Erfan Rahmati, a teen software developer. I live in Iran, Tehran. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies. I'm currently into Mobile applications & server APIs Development.
 
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
