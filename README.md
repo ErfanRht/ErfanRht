@@ -98,95 +98,44 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 
 <details>
   <summary><b>🚀 Open Source Projects</b></summary>
+<p align="center">
+<a href="https://github.com/ErfanRht/MovieLab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=MovieLab&hide_border=true&theme=github_dark" />
+</a>
 
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-	    <tr>
-	<td><a href="https://github.com/ErfanRht/MovieLab"><b>📱 MovieLab</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/MovieLab?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/MovieLab?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/MovieLab?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/MovieLab?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/MovieLab?style=flat-square"/></td>
-      </tr>
-	<tr>
-	<td><a href="https://github.com/ErfanRht/Anti-Corona"><b>📱 Anti Corona</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Anti-Corona?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Anti-Corona?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Anti-Corona?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/Anti-Corona?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/Anti-Corona?style=flat-square"/></td>
-      </tr>
-	<tr>
-	<td><a href="https://github.com/ErfanRht/Tasker"><b>📱 Tasker</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Tasker?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Tasker?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Tasker?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/Tasker?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/Tasker?style=flat-square"/></td>
-      </tr>
-	<tr>
-	<td><a href="https://github.com/ErfanRht/Ghods-highschool"><b>💻 Ghods-highschool</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Ghods-highschool?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Ghods-highschool?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Ghods-highschool?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/Ghods-highschool?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/Ghods-highschool?style=flat-square"/></td>
-      </tr>
-	<tr>
-	<td><a href="https://github.com/ErfanRht/Tic-Tac-Toe"><b>📱 Tic-Tac-Toe</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Tic-Tac-Toe?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Tic-Tac-Toe?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/Tic-Tac-Toe?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/Tic-Tac-Toe?style=flat-square"/></td>
-      </tr>
-       <tr>
-	<td><a href="https://github.com/ErfanRht/BMI-calculator"><b>📱 BMI-calculator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/BMI-calculator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/BMI-calculator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/BMI-calculator?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/BMI-calculator?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/BMI-calculator?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/ErfanRht/Sudo-Wallpapers"><b>📷 Sudo-Wallpapers</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/Sudo-Wallpapers?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/Sudo-Wallpapers?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/Sudo-Wallpapers?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/Sudo-Wallpapers?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/Sudo-Wallpapers?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/ErfanRht/My-Personal-Website"><b>👤 My-Personal-Website</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/My-Personal-Website?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/My-Personal-Website?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/My-Personal-Website?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/My-Personal-Website?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/My-Personal-Website?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/ErfanRht/FAD-Spammer"><b>💬 FAD-Spammer</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/FAD-Spammer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/FAD-Spammer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/FAD-Spammer?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/FAD-Spammer?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ErfanRht/FAD-Spammer?style=flat-square"/></td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
+<a href="https://github.com/ErfanRht/Anti-Corona">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=Anti-Corona&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/ErfanRht/Tasker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=Tasker&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/ErfanRht/Ghods-Highschool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=Ghods-Highschool&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/ErfanRht/Flutter-Personal-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=Flutter-Personal-Website&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/ErfanRht/FAD-Spammer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=FAD-Spammer&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/ErfanRht/Tic-Tac-Toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=Tic-Tac-Toe&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/ErfanRht/Sudo-Wallpapers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=Sudo-Wallpapers&hide_border=true&theme=github_dark" />
+</a>
+
+<a href="https://github.com/ErfanRht/BMI-Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=BMI-Calculator&hide_border=true&theme=github_dark" />
+</a>
+
+</p>
 </details>
 
 <details>
