@@ -54,13 +54,13 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 ### My Stats:
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErfanRht&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" width="45%" />
 	
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanRht&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanRht&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="45%"/>
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&theme=github_dark&hide_border=truelayout=compact&langs_count=8" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ErfanRht&theme=github_dark&hide_border=truelayout=compact&langs_count=8" width="45%" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ErfanRht&theme=react-dark&hide_border=true&layout=compact&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 
