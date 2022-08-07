@@ -133,39 +133,15 @@ I'm Erfan Rahmati, a teen software developer👨‍💻. I live in Iran, Tehran 
 
 <details>
   <summary><b>💻 Open Source Packages</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Packages</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/ErfanRht/flutter_advanced_button"><b>📱 flutter_advanced_button</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/flutter_advanced_button?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/flutter_advanced_button?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/flutter_advanced_button?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/flutter_advanced_button?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/-Flutter%20package-2CB7F6?style=flat-square&logo=Flutter&logoColor=white"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/ErfanRht/fake-persian-name"><b>💻 fake-persian-name</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/ErfanRht/fake-persian-name?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/ErfanRht/fake-persian-name?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/ErfanRht/fake-persian-name?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ErfanRht/fake-persian-name?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/-Python%20library-3476AA?style=flat-square&logo=Python&logoColor=white"/></td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
+  <p align="center">
+<a href="https://github.com/ErfanRht/flutter_advanced_button">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=flutter_advanced_button&hide_border=true&theme=github_dark" />
+</a>
+	
+<a href="https://github.com/ErfanRht/fake-persian-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErfanRht&repo=fake-persian-name&hide_border=true&theme=github_dark" />
+</a>
+</p>
 </details>
  
 <details>	
