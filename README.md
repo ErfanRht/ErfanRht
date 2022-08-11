@@ -23,14 +23,22 @@ I'm Erfan Rahmati, a teen software developer. I live in Iran, Tehran. I'm a pass
 ###  Connect with me 
 
 <p align="left">
-<a href="https://linkedin.com/in/erfanrahmati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erfanrahmati" height="30" width="40" /></a>
-<a href="https://instagram.com/erfanrahmatei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erfanrahmatei" height="30" width="40" /></a>
-<a href="https://t.me/ErfanRht" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="erfanrahmatei" height="30" width="40" /></a>
-<a href="http://erfanrht.github.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Chrome_icon_%28September_2014%29.svg/1024px-Google_Chrome_icon_%28September_2014%29.svg.png" alt="erfanrahmatei" height="30" width="40" /></a>
-<a href="[https://instagram.com/erfanrahmatei](https://api.whatsapp.com/send?phone=0989397288246)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="erfanrahmatei" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/erfanrahmati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erfanrahmati" height="30" width="40" /></a>
-<a href="https://twitter.com/rhterf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhterf" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/erfanrahmati/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/RhtErf" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/erfanrahmatei">
+<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=0989397288246">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+</a>
+<a href="mailto:ErfanRht2005@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p> 
 	
 ### Languages and Tools:
 
