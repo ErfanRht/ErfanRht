@@ -51,8 +51,6 @@ I'm Erfan Rahmati, a teen software developer. I live in Iran, Tehran. I'm a pass
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanRht&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ErfanRht&theme=react-dark&hide_border=true&layout=compact&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-
 </p>
 
 ### Projects and Dev Stuffs:
