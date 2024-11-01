@@ -10,7 +10,6 @@ I'm Erfan Rahmati, a teen software developer. I live in Iran, Tehran. I'm a pass
 - I love exploring new tech stack and building cool stuffs.
 - Most of my projects are available on [Github](https://github.com/ErfanRht).
 - Ask me about anything [here](https://github.com/ErfanRht/ErfanRht/issues)! I am happy to help.
-- Checkout [resume](https://github.com/ErfanRht/ErfanRht/blob/main/resume.pdf).
 
 ###  Connect with me 
 
